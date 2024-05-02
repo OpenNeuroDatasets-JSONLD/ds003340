@@ -5,7 +5,6 @@
 	"PulseSequenceType": "Multiband Gradient ECHO EPI",
 	"ParallelReductionFactorInPlane": 2,
 	"ParallelAcquisitionTechnique": "GRAPPA",
-	"PartialFourier": "6/8",
 	"PhaseEncodingDirection": "j",
 	"MultibandAccelerationFactor": 2,
 	"Manufacturer": "SIEMENS",
