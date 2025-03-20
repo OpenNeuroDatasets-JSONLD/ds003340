@@ -16,7 +16,8 @@
                 "n/a",
                 " "
             ]
-        }
+        },
+        "Description": "There should have been a description here, but there wasn't. :("
     },
     "gender": {
         "LongName": "Gender",
@@ -44,7 +45,8 @@
     },
     "weight": {
         "LongName": "Weight",
-        "Units": "Kilograms"
+        "Units": "Kilograms",
+        "Description": "There should have been a description here, but there wasn't. :("
     },
     "num_sessions": {
         "LongName": "Number of Sessions",
